@@ -1,0 +1,1 @@
+/* This is an Introduction of TYPESCRIPT CRASH COURSE */
